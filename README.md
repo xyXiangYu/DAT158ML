@@ -29,7 +29,7 @@ python -m ipykernel install --user --name dat158 --display-name "DAT158"
 ```
 
 ### Test installasjonen
-Gå gjennom notebooken `1.0-test.ipynb`:
+Gå gjennom notebooken `0.0-test.ipynb`:
 ```bash
 jupyter notebook
 ```
