@@ -4,7 +4,9 @@
 Her finner du kode og dokumentasjon til DAT158-ML ved HVL. 
 
 # Installasjon
-Vi anbefaler at du installerer Python ved å bruke [Anaconda](https://www.anaconda.com/distribution). Gå deretter gjennom følgende steg: 
+Vi anbefaler at du installerer Python ved å bruke [Anaconda](https://www.anaconda.com/distribution). Velg «Python 3.6 version». Test installasjonen ved å skrive `python --version` i et terminalvindu. Output fra kommandoen må inneholde «Python 3.6» og «Anaconda». 
+
+Gå deretter gjennom følgende steg: 
 ### Last ned repoet: 
 ```bash
 git clone https://github.com/alu042/DAT158ML
