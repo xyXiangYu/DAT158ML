@@ -33,8 +33,8 @@ jupyter notebook
 ```
 
 ## Oppdatering
-Oppdater kode: `git pull`. 
-Oppdater pakker: `conda env update`.
+* Oppdater kode: `git pull`. 
+* Oppdater pakker: `conda env update`.
 
 
 
