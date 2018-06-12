@@ -31,6 +31,7 @@ Gå gjennom notebooken `1.0-test.ipynb`:
 ```bash
 jupyter notebook
 ```
+Du kan også bruke [JupyterLab](https://github.com/jupyterlab/jupyterlab): `jupyter lab`.
 
 ## Oppdatering
 * Oppdater kode: `git pull`. 
