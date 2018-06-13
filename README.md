@@ -1,4 +1,4 @@
-![DAT158 image](./assets/dat158-1.jpg)
+![DAT158 image](./assets/dat158-small.jpg)
 
 # DAT158ML
 Her finner du kode og dokumentasjon til DAT158-ML ved HVL. 
