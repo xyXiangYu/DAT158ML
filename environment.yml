@@ -14,7 +14,7 @@ dependencies:
 - conda-forge::jupyterlab
 - scipy
 - seaborn
-- pytorch
+- pytorch::pytorch
 - pip:
   - torchvision
   - opencv-python
