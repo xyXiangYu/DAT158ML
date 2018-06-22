@@ -21,7 +21,6 @@ conda env update
 ```bash
 conda activate dat158
 ```
-(eller `source activate dat158` om kommandoen feiler)
 
 ### Installer Jupyter-kjerne
 ```bash
