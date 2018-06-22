@@ -1,4 +1,4 @@
-![DAT158 image](./assets/dat158-small.png)
+![DAT158 image](./assets/DAT158-2.jpg)
 
 # DAT158ML
 Her finner du kode og dokumentasjon til DAT158-ML ved HVL. Informasjon om kurset finner du i [Canvas](https://hvl.instructure.com).
