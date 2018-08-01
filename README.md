@@ -1,7 +1,7 @@
 ![DAT158 image](./assets/DAT158-2.jpg)
 
 # DAT158ML
-Code and documentation for DAT158-ML at HVL. You'll find information about the course in [Canvas](https://hvl.instructure.com).
+Code and documentation for [DAT158](https://www.hvl.no/en/studies-at-hvl/study-programmes/course/dat158)-ML at HVL. Go to [Canvas](https://hvl.instructure.com) for information about the course.
 
 # Installation
 We recommend that you install Python through [Anaconda](https://www.anaconda.com/distribution). Choose "Python 3.6 version". Test your installation by running `python --version` in a terminal. The output should contain "Python 3.6" and «Anaconda». 
