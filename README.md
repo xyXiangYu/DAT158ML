@@ -26,6 +26,10 @@ conda activate dat158
 ```bash
 python -m ipykernel install --user --name dat158 --display-name "DAT158"
 ```
+...and add collapsible headings in the notebooks (not necessary, but convenient)
+```bash
+jupyter nbextension enable collapsible_headings
+```
 
 ### Test your installation
 Run through the notebook `0.0-test.ipynb`:
