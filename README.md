@@ -43,6 +43,8 @@ The code and environment will be updated throughout the course. Run the followin
 * Update code: `git pull`
 * Update environment: `conda env update`
 
+## Troubleshooting
 
+* If you use Windows and get an error on the form `ImportError: DLL load failed: The operating system cannot run %1`, try changing the installed version of `intel-openmp` by running `conda install -c defaults intel-openmp -f` in the DAT158 environment. 
 
 
