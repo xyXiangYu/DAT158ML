@@ -1,4 +1,4 @@
-![DAT158 image](./assets/DAT158-2.jpg)
+![DAT158 image](./assets/DAT158-2_english_small.png)
 
 # DAT158ML
 Code and documentation for [DAT158](https://www.hvl.no/en/studies-at-hvl/study-programmes/course/dat158)-ML at HVL. Go to [Canvas](https://hvl.instructure.com) for information about the course.
