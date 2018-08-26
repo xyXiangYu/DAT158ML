@@ -16,6 +16,11 @@ cd DAT158ML
 ```bash
 conda env update
 ```
+If you're using Linux or MacOS and the above command fails, run 
+```bash 
+source ~/.bash_profile
+``` 
+and try again.
 
 ### Activate environment:
 ```bash
@@ -45,6 +50,6 @@ The code and environment will be updated throughout the course. Run the followin
 
 # Troubleshooting
 
-* If you use Windows and get an error on the form `ImportError: DLL load failed: The operating system cannot run %1`, try changing the installed version of `intel-openmp` by running `conda install -c defaults intel-openmp -f` in the DAT158 environment. 
+* If you use Windows and get an error on the form `ImportError: DLL load failed: The operating system cannot run %1`, try changing the installed version of `intel-openmp` by running `conda install -c defaults intel-openmp -f` in the DAT158 environment. Make sure you're in the correct environment (first do a `conda activate dat158`).
 
 
