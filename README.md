@@ -6,7 +6,7 @@ Code and documentation for [DAT158](https://www.hvl.no/en/studies-at-hvl/study-p
 # Installation
 We recommend that you install Python through [Anaconda](https://www.anaconda.com/distribution). Choose "Python 3.6 version". Test your installation by running `python --version` in a terminal. The output should contain "Python 3.6" and «Anaconda». 
 
-Then, go through the following steps: 
+After you've made sure that Anaconda is installed, go through the following steps: 
 ### Download the repository: 
 ```bash
 git clone https://github.com/alu042/DAT158ML
@@ -25,7 +25,7 @@ If you're using Linux or MacOS and the above command fails, run
 ```bash 
 source ~/.bash_profile
 ``` 
-and try again.
+and try the command again.
 
 ### Install a Jupyter kernel
 ```bash
