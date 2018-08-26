@@ -16,16 +16,16 @@ cd DAT158ML
 ```bash
 conda env update
 ```
-If you're using Linux or MacOS and the above command fails, run 
-```bash 
-source ~/.bash_profile
-``` 
-and try again.
 
 ### Activate environment:
 ```bash
 conda activate dat158
 ```
+If you're using Linux or MacOS and the above command fails, run 
+```bash 
+source ~/.bash_profile
+``` 
+and try again.
 
 ### Install a Jupyter kernel
 ```bash
