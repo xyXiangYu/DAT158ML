@@ -25,7 +25,7 @@ If you're using Linux or MacOS and the above command fails, run
 ```bash 
 source ~/.bash_profile
 ``` 
-and try the command again. If that fails, use `source activate dat158` instead.
+and try `conda activate dat158` again. If that fails, use `source activate dat158` instead.
 
 ### Install a Jupyter kernel
 ```bash
