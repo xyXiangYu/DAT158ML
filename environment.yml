@@ -24,3 +24,5 @@ dependencies:
   - graphviz
   - pandas-profiling
   - xlrd
+  - eli5
+  - pdpbox
