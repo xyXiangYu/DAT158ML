@@ -3,6 +3,10 @@
 # DAT158ML
 Code and documentation for [DAT158](https://www.hvl.no/en/studies-at-hvl/study-programmes/course/dat158)-ML at HVL. Go to [Canvas](https://hvl.instructure.com/courses/3039) for information about the course.
 
+You can browse the course notebooks interactively here: https://mybinder.org/v2/gh/alu042/DAT158ML/master
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alu042/DAT158ML/master)
+
 # Installation
 We recommend that you install Python through [Anaconda](https://www.anaconda.com/distribution). Choose "Python 3.6 version". Test your installation by running `python --version` in a terminal. The output should contain "Python 3.6" and "Anaconda". 
 
